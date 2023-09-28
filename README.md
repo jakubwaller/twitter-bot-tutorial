@@ -1,5 +1,5 @@
 # Twitter Bot Tutorial
 
-https://twitter.com/aloissiola42/status/1620840902125027340
+Learn how to create a Twitter Bot in 15 minutes:
 
-![trailer](trailer.gif)
+https://twitter.com/aloissiola42/status/1620840902125027340
